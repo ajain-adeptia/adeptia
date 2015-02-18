@@ -1,13 +1,5 @@
 package com.hazelcast;
 
-import java.util.Map;
-
-import javax.cache.CacheManager;
-import javax.cache.Caching;
-import javax.cache.spi.CachingProvider;
-
-import com.hazelcast.core.Hazelcast;
-import com.hazelcast.core.HazelcastInstance;
 
 public class Test {
 
