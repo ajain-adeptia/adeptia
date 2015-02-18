@@ -15,6 +15,7 @@ public class Test {
 		// System.out.println("Finished loading map");
 
 		System.out.println(AppCacheManager.getInstance().get("x"));
+		System.out.println();
 	}
 
 }
