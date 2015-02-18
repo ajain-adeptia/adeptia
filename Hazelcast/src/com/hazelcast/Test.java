@@ -17,6 +17,7 @@ public class Test {
 		System.out.println(AppCacheManager.getInstance().get("x"));
 		System.out.println();
 		System.out.println();
+		System.out.println();
 	}
 
 }
